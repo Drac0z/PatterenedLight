@@ -1,0 +1,75 @@
+/* Body */
+body {
+    background-image: url(https://img.freepik.com/free-vector/black-carbon-fiber-texture-pattern-background_1017-33436.jpg);
+    background-size: cover;
+    background-position: center;
+    color: #c1c1c1;
+}
+
+/* Background color */
+.bgPrimary-1IIpHf {
+    background-color: #121212 !important;
+}
+
+/* Text color */
+.content-1TnDBG, .markup-2BOw-j, .chatContent-a9vAAp {
+    color: #c1c1c1;
+}
+
+/* Accent color */
+.brand-2EpCk2, .brand:hover, .name-3YKhm9 {
+    color: #ff6b6b;
+}
+
+/* Channel topic */
+.topic-TCb_qw {
+    color: #c1c1c1;
+}
+
+/* Server name and members */
+.wrapper-2aW0bm {
+    background-color: #1d1d1d;
+    color: #c1c1c1;
+}
+
+/* Server list */
+.sidebar-2K8pFh {
+    background-color: #1a1a1a;
+}
+
+/* Unread messages */
+.unread-1xJgZb {
+    background-color: #ff6b6b;
+}
+
+/* Links */
+a {
+    color: #ff6b6b;
+}
+
+/* Selected server/channel */
+.selected-3s45Ha, .selected-3s45Ha:hover, .modeSelected-1bRjAn {
+    background-color: #292929;
+}
+
+/* Hover */
+.hover-2CZfir:hover, .wrapper-2aW0bm:hover {
+    background-color: #333333;
+}
+
+/* Mentions */
+.highlight-2bQnXI, .highlightRed-1Z5S_f {
+    background-color: #ff6b6b;
+    color: #c1c1c1;
+}
+
+/* Chat input background */
+.chat-3bRxxu .content-yTz4x3 {
+    background-color: #202020;
+}
+
+/* Text selection */
+::selection {
+    background-color: #ff6b6b;
+    color: #c1c1c1;
+}
